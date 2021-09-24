@@ -1,0 +1,1 @@
+/Users/sufyanshabbir/StudioProjects/Android-assignment/buildSrc/build/classes/kotlin/main/Dependencies.class

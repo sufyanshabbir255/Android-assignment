@@ -1,0 +1,16 @@
+object Dependencies {
+    const val coreKtx = "androidx.core:core-ktx:1.6.0"
+    const val appCompat = "androidx.appcompat:appcompat:1.3.1"
+    const val appMaterial = "com.google.android.material:material:1.4.0"
+    const val constraintLayout = "androidx.constraintlayout:constraintlayout:2.1.0"
+    const val coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9"
+    const val jUnit = "junit:junit:4.+"
+    const val jUnitTest = "androidx.test.ext:junit:1.1.3"
+    const val espresso = "androidx.test.espresso:espresso-core:3.4.0"
+    const val viewModel = "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
+    const val glide = "com.github.bumptech.glide:glide:4.12.0"
+    const val glideAnnotation = "com.github.bumptech.glide:compiler:4.12.0"
+    const val activityKtx = "androidx.activity:activity-ktx:1.2.4"
+    const val recyclerView = "androidx.recyclerview:recyclerview:1.2.0"
+    const val cardView = "androidx.cardview:cardview:1.0.0"
+}
