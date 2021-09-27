@@ -35,18 +35,6 @@ class DownloadLoaderImpl : IDownLoaderHelper {
         }
     }
 
-    /*override fun getImagesNext4(): Flow<List<String>> {
-        return arrayListOf(Utils.imagePath5, Utils.imagePath6, Utils.imagePath7, Utils.imagePath8)
-    }
-*/
-/*
-    override fun getImages1(): Flow<List<String>> {
-        return flow {
-            emit(arrayListOf(Utils.imagePath9))
-            delay(1000)
-        }
-    }*/
-
     override fun getImages1(): Flow<List<String>> {
         return flow { arrayListOf(Utils.imagePath9) }
     }
